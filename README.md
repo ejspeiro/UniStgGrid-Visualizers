@@ -1,4 +1,4 @@
-# MATLAB Visualizer for Uniform Staggered Grids
+# MATLAB Visualizers for Uniform Staggered Grids
 
 By: **Eduardo J. Sanchez, Ph.D. - esanchez at mail dot sdsu dot edu**
     __________________________________________________________________
