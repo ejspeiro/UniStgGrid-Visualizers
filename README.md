@@ -19,7 +19,7 @@ Further details:
 
 These files are also distributed from these MATLAB Central File Exchange sites:
 
-[Visualizer for 1D Staggered Grids](http://www.mathworks.com/matlabcentral/fileexchange/48843-visualizer-for-1d-staggered-grids)
+[Visualizers for Uniform Staggered Grids](http://www.mathworks.com/matlabcentral/fileexchange/48843-visualizers-for-uniform-staggered-grids)
 
 Thanks to Denis Gilbert (File ID: #4908 on MATLAB Central File Exchange) for his
 proposed template to document MATLAB files. I have used it here.

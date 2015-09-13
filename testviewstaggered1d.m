@@ -35,7 +35,7 @@ function testviewstaggered1d
   figure(1);
   viewstaggered1d(xnodes,xcenters,deltax,true);
   xlabel('$\tilde{x}$','Interpreter','latex');
-  title('Logically-Rectangular 1D Uniform Rectangular Grid')
+  title('Logically-Rectangular 1D Uniform Rectangular Grid');
 end
 
 %------------- END OF CODE --------------
