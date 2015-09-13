@@ -15,8 +15,11 @@ Differential Equations that act upon analog domains.
 
 Further details:
 
-(The Mimetic Methods Toolkit: An object-oriented API for Mimetic Finite
-Differences)[http://www.sciencedirect.com/science/article/pii/S037704271300719X]
+[The Mimetic Methods Toolkit: An object-oriented API for Mimetic Finite Differences](http://www.sciencedirect.com/science/article/pii/S037704271300719X)
+
+These files are also distributed from here:
+
+[Visualizer for 1D Staggered Grids](http://www.mathworks.com/matlabcentral/fileexchange/48843-visualizer-for-1d-staggered-grids)
 
 Thanks to Denis Gilbert (File ID: #4908 on MATLAB Exchange) for his proposed
 template to document MATLAB files. I have used it here.
