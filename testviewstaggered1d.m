@@ -29,13 +29,13 @@ function testviewstaggered1d
   m = 5;  % Number of cells on the x dimension.
   deltax = abs(xb - xa)/m;
 
-  xnodes = [xa:deltax:xb]
-  xcenters = [(xa + deltax/2):deltax:(xb - deltax/2)]
+  xnodes = xa:deltax:xb;
+  xcenters = (xa + deltax/2):deltax:(xb - deltax/2);
 
   figure(1);
   viewstaggered1d(xnodes,xcenters,deltax,true);
   xlabel('$\tilde{x}$','Interpreter','latex');
-  title('Logically-Rectangular 1D Uniform Rectangular Grid');
+  title('Logically-Rectangular 1D Uniform Rectangular Grid')
 end
 
 %------------- END OF CODE --------------
